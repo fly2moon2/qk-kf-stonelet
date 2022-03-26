@@ -1,0 +1,5 @@
+app/service/LanguageService.class
+org/f2m2/MyRemoteService.class
+app/service/TransService.class
+app/service/Language.class
+org/f2m2/MyRemoteService$Extension.class
